@@ -61,6 +61,8 @@ def check():
         hand_flag=True
 
 while True:
+
+    
     random_hand()
     trace_hand()
     check()
